@@ -2,4 +2,4 @@
 <h3 align="center">  Polytechnic University of the Philippines Biñan Campus </h3>
 <h3 align="center">Bachelor of Science in Computer Engineering 1-1</h3>
 
-![](http://www.tumblr.com/)
+(<iframe src="https://giphy.com/embed/13GIgrGdslD9oQ" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-typing-unpopular-opinion-13GIgrGdslD9oQ">via GIPHY</a></p>)
