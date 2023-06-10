@@ -2,6 +2,7 @@
 <h3 align="center">  Polytechnic University of the Philippines Biñan Campus </h3>
 <h3 align="center">Bachelor of Science in Computer Engineering 1-1</h3>
 
+<h3 align="center"> This is what I do:</h3>
 <p align="center">
 <img src ="https://github-production-user-asset-6210df.s3.amazonaws.com/122150371/244875431-36634372-eb47-4bce-9a8a-22ab7fa0c05f.gif">
 </p>
